@@ -105,5 +105,8 @@ section{
     .icon{
         letter-spacing: 70px;
         height: 5px;
-
+    }
+    footer p{
+        text-align: center;
+        font-size: 12px;
     }
